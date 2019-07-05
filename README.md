@@ -12,6 +12,7 @@ Common:
 - NodeJS (minimum version 8) (https://nodejs.org/dist/latest-v10.x/docs/api/)
 - ES6 (http://es6-features.org)
 
+
 Tasks:
 
 Familiarize yourself with npm (project initialization, package initialization etc...).
