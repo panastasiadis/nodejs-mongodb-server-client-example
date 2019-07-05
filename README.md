@@ -13,6 +13,7 @@ Common:
 - ES6 (http://es6-features.org)
 
 Tasks:
+
 Familiarize yourself with npm (project initialization, package initialization etc...).
 
 Build basic infrastructure using express and add some endpoints. Mainly JSON endpoints, but you can also add some endpoints that serve html and some large example files (octet-stream).
