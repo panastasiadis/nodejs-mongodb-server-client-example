@@ -1,0 +1,15 @@
+{
+  "method" : "GETALL",    
+  "type" : "company",
+  
+  "idToModify": "2",
+  "idToDelete": "5d1c5cb7fe9dcb2950745d6a",
+  "idToGet" : "1",
+  
+  "title": "#2 company - The Best Company",
+  "description": "It's the #2.4 company. The best, you know",
+
+  "name": "Peter Hleb",
+  "username": "peterhleb1",
+  "password": "smirf"
+}
