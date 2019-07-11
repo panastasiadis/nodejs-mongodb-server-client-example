@@ -4,7 +4,7 @@ import db from './dbs/companies_db';
 import path from 'path';
 import fs from 'fs';
 
-//Require mongodb database 
+//Require mongodb database
 var User = require('./dbs/mongo_db');
 
 //specify port for server to listen
