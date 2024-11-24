@@ -1,5 +1,4 @@
-# centaur-project1-http-server-client-example
-Build a basic HTTP server/client example.
+# Build a basic HTTP server/client example with NodeJs and MongoDB.
 
 Server:
 - Express (https://expressjs.com/)
@@ -15,9 +14,9 @@ Common:
 
 Tasks:
 
-Familiarize yourself with npm (project initialization, package initialization etc...).
+Familiarize with npm (project initialization, package initialization etc...).
 
-Build basic infrastructure using express and add some endpoints. Mainly JSON endpoints, but you can also add some endpoints that serve html and some large example files (octet-stream).
+Build basic infrastructure using express and add some endpoints (JSON/html/octet-stream).
 
 Install mongoose (connector mongodb) and add some endpoints that use the DB.
 
